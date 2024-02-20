@@ -16,7 +16,7 @@ Con una población de 3,120,612 habitantes en un área de 200 km2 según el cens
 El análisis se basó en la Base de [Datos de Víctimas Fatales en Siniestros Viales](https://data.buenosaires.gob.ar/dataset/victimas-siniestros-viales), disponible en formato Excel con dos secciones: HECHOS y VÍCTIMAS, interconectadas por un ID único. Se proporcionan detalles sobre las definiciones y variables utilizadas en este documento, y los datos pueden consultarse aquí.
 
 ## Tecnologías Utilizadas
-El proyecto involucró el uso de Python y Pandas para la manipulación de datos, seguido de un análisis exploratorio. Para estimar la población de 2021, se recurrio a un excel de la pagina de la ciudad de Buenos Aires en [INDEC](https://www.indec.gob.ar/indec/web/Nivel4-Tema-2-41-165). El dashboard interactivo fue desarrollado en Power BI y está disponible [aquí](Presentación/Presentación_accidentes_CABA - MySQL.pbix)
+El proyecto involucró el uso de Python y Pandas para la manipulación de datos, seguido de un análisis exploratorio. Para estimar la población de 2021, se recurrio a un excel de la pagina de la ciudad de Buenos Aires en [INDEC](https://www.indec.gob.ar/indec/web/Nivel4-Tema-2-41-165). El dashboard interactivo fue desarrollado en Power BI y está disponible [aquí](./Presentación/Presentación_accidentes_CABA - MySQL.pbix)
 
 ## ETL y EDA
 Inicialmente, se realizó un ETL para limpiar y preparar los datos, seguido de un análisis exploratorio detallado (EDA) para identificar patrones relevantes para la toma de decisiones. Los detalles se encuentran aquí.
