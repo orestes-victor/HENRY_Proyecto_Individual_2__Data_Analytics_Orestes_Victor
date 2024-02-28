@@ -1,4 +1,4 @@
-# Análisis de Homicidios Viales en CABA, Argentina
+# Análisis de Homicidios Viales en la Ciudad Autónma de Buenos Aires (CABA), Argentina.
 
 ## Introducción
 Este proyecto emula el papel de un Analista de Datos dentro de un equipo de una consultora. El Observatorio de Movilidad y Seguridad Vial (OMSV), una entidad especializada adscrita a la Secretaría de Transporte del Gobierno de la Ciudad Autónoma de Buenos Aires, nos encargó desarrollar un análisis detallado de datos.
@@ -49,6 +49,8 @@ Reducir en un 10% los homicidios en las avenidas en el último año en CABA, res
 Este KPI se basa en los homicidios en las avenidas, que mide el número de víctimas fatales en accidentes de tránsito durante un año. Para el año 2020, fue de 69 victimas, y el objetivo era reducirla a 62 para 2021, lo que representa una disminución del 10%. Sin embargo, el número de víctimas para 2021 fue de 66 victimas, indicando una disminución de homicidios en las avenidas en comparación con el año anterior, pero aún asi insuficiente e incumpliendo así el objetivo establecido.
 
 La imagen adjunta muestra los rendimientos de estos tres KPI propuestos.
+
+![KPI](Imagenes/KPIs.png)
 
 ## CONCLUSIONES
 El análisis de los siniestros viales en la Ciudad de Buenos Aires entre 2016 y 2021 revela patrones críticos que deben ser abordados con urgencia. 
