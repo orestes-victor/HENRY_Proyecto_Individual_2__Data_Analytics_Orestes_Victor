@@ -69,7 +69,7 @@ Carpetas
 
 *  **Notebooks:** Dentro de esta carpeta encontrarás dos archivos .ipynb. Los cuales son [01_ETL](Notebooks/01_ETL.ipynb) y [02_EDA](Notebooks/02_EDA.ipynb). Los cuales contienen todo el análisis hecho sobre el dataset de accidentes de la página de la ciudad de Buenos Aires.
 
-*  **Presentación:** Aqui podrás encontrar la presentación del análisis en un archivo de PowerBI.
+*  **Presentación:** Aqui podrás encontrar la presentación del análisis en un archivo de PowerBI llamada [Presentación](Presentación/Presentación_accidentes_CABA - MySQL.pbix)
 
 *  **Readme:** Incluye un reporte de análisis en base al dashboard y análisis de los KPI sugeridos.
 
