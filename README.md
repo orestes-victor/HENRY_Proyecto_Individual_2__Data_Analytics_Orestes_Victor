@@ -50,6 +50,8 @@ Este KPI se basa en los homicidios en las avenidas, que mide el número de víct
 
 La imagen adjunta muestra los rendimientos de estos tres KPI propuestos.
 
+![KPI](Imagenes/KPIs.png)
+
 ## CONCLUSIONES
 El análisis de los siniestros viales en la Ciudad de Buenos Aires entre 2016 y 2021 revela patrones críticos que deben ser abordados con urgencia. 
 
