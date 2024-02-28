@@ -24,7 +24,41 @@ Inicialmente, se realizó un ETL para limpiar y preparar los datos, seguido de u
 Tambien recurrimos a alojar nuestro dataset en un servidor en la nube [Clever-Cloud](https://console.clever-cloud.com/), para que PowerBi consulte online y se conecte a una base de MySQL.
 
 ## Análisis de Datos
-El análisis comenzó evaluando la distribución temporal de los homicidios, identificando patrones semanales y horarios significativos, y perfilando las víctimas por género, edad, y medio de transporte utilizado al momento del accidente. Se examinó también la distribución espacial de los incidentes, destacando la prevalencia de accidentes en avenidas y mas justamente en las esquinas.
+El análisis realizado revela una serie de patrones significativos en relación con los homicidios, abordando variables temporales, perfiles de víctimas y distribución espacial.
+
+En primer lugar, se observa una disminución notable en la cantidad de homicidios en el año 2020, atribuible a las medidas de cuarentena por COVID-19. Sin embargo, esta tendencia no se replica de manera consistente en años anteriores. Aunque diciembre destaca como un mes con un pico en el número de víctimas, esta tendencia no es uniforme en todos los años, sugiriendo una posible influencia de la flexibilización de las restricciones de cuarentena en los patrones de homicidios.
+
+Al analizar escalas temporales más detalladas, se encuentra que la mayoría de los homicidios ocurren entre lunes y viernes, lo que podría relacionarse con el traslado diario al trabajo. Sin embargo, no se observan diferencias significativas en la distribución de víctimas entre los días de la semana. Además, un porcentaje considerable de las víctimas se registra en las primeras horas de la mañana, aunque la mayoría de estos incidentes ocurrieron durante el fin de semana.
+
+En cuanto al perfil de las víctimas, se destaca que la mayoría son hombres, en su mayoría dentro del rango de edad de 25 a 35 años. Cerca de la mitad de las víctimas son conductores, principalmente de motocicletas, y la responsabilidad del accidente recae principalmente en vehículos como automóviles, colectivos y camiones.
+
+En términos de distribución espacial, los accidentes en las avenidas son comunes en todas las comunas de la Ciudad Autónoma de Buenos Aires, con la mayoría de las víctimas perdiendo la vida en estos lugares, especialmente en los cruces con otras calles. El rol de la víctima varía entre moto y peatón dependiendo de la comuna.
+
+Este análisis integral proporciona una visión detallada de los patrones temporales, el perfil de las víctimas y los factores espaciales relacionados con los homicidios, lo que puede ser fundamental para identificar áreas de enfoque en términos de prevención y políticas públicas orientadas a la seguridad ciudadana.
 
 ## KPI
-Basados en el análisis, se establecieron tres KPIs para monitorear la reducción de víctimas fatales, accidentes mortales de motociclistas, y la tasa de homicidios en avenidas
+En función del análisis previo, se establecieron tres objetivos para reducir la cantidad de víctimas fatales en siniestros viales, cada uno asociado a un indicador clave de rendimiento (KPI).
+
+Reducir en un 10% la tasa de homicidios en siniestros viales de los últimos seis meses en CABA, en comparación con el semestre anterior:
+Este KPI se basa en la Tasa de homicidios en siniestros viales, que mide el número de víctimas fatales en accidentes de tránsito por cada 100,000 habitantes durante un período específico. Se calcula dividiendo el número de homicidios en siniestros viales por la población total y multiplicando por 100,000. Para el año 2021. El objetivo era reducir la tasa en un 10% para el segundo semestre de 2021, lo que equivale a 1.61. Sin embargo, el KPI resultante fue de 1.66, indicando que se no se cumplió con el objetivo propuesto.
+
+Reducir en un 7% la cantidad de accidentes mortales de motociclistas en el último año en CABA, respecto al año anterior:
+Este indicador se basa en la Cantidad de accidentes mortales de motociclistas, que mide el cambio porcentual en el número de accidentes mortales en los que estuvieron involucrados motociclistas entre dos años consecutivos. El objetivo era no soprepasar -44.2 para 2021, lo que representa una reducción del 7%. Sin embargo, el valor obtenido para 2021 fue de 53,3, indicando un aumento del 53% en comparación con 2020, lo que no cumple con el objetivo establecido.
+
+Reducir en un 10% los homicidios en las avenidas en el último año en CABA, respecto al año anterior:
+Este KPI se basa en los homicidios en las avenidas, que mide el número de víctimas fatales en accidentes de tránsito durante un año. Para el año 2020, fue de 69 victimas, y el objetivo era reducirla a 62 para 2021, lo que representa una disminución del 10%. Sin embargo, el número de víctimas para 2021 fue de 66 victimas, indicando una disminución de homicidios en las avenidas en comparación con el año anterior, pero aún asi insuficiente e incumpliendo así el objetivo establecido.
+
+La imagen adjunta muestra los rendimientos de estos tres KPI propuestos.
+
+## CONCLUSIONES
+El análisis de los siniestros viales en la Ciudad de Buenos Aires entre 2016 y 2021 revela patrones críticos que deben ser abordados con urgencia. 
+
+Con 694 accidentes y 759 víctimas mortales en este período, es evidente la necesidad de acciones concretas para mejorar la seguridad vial. La tendencia al alza de accidentes en diciembre y la disminución observada durante los años de pandemia resaltan el impacto de factores temporales en la incidencia de estos siniestros. 
+
+Además, el perfil predominante de las víctimas, siendo en su mayoría hombres de entre 30 y 45 años, y el rol significativo de motocicletas y automóviles en estos eventos, subrayan áreas específicas para intervenciones dirigidas.
+
+En este contexto, se recomienda la implementación de campañas de concienciación enfocadas en los conductores de motocicletas y automóviles, especialmente dirigidas a los grupos de edad más afectados. Estas campañas deben enfatizar la importancia del respeto a las normas de tráfico, el uso de cascos y cinturones de seguridad, y la conducción responsable. Además, es crucial mejorar la infraestructura vial en puntos críticos identificados, como esquinas y avenidas donde ocurre el mayor número de accidentes, así como en los barrios con mayores índices de siniestralidad.
+
+Finalmente, se sugiere fortalecer la recopilación y análisis de datos sobre siniestros viales, facilitando así la identificación de tendencias, la evaluación de políticas implementadas y la adaptación de estrategias a las necesidades cambiantes. 
+
+La colaboración entre distintas entidades gubernamentales, organizaciones de la sociedad civil y el sector privado será fundamental para lograr una reducción significativa en el número de víctimas fatales por siniestros viales en Buenos Aires y en toda Argentina.
