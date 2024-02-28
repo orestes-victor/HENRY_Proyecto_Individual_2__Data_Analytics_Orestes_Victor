@@ -1,4 +1,4 @@
-# Análisis de Homicidios Viales en CABA, Argentina
+# Análisis de Homicidios Viales en la Ciudad Autónma de Buenos Aires (CABA), Argentina.
 
 ## Introducción
 Este proyecto emula el papel de un Analista de Datos dentro de un equipo de una consultora. El Observatorio de Movilidad y Seguridad Vial (OMSV), una entidad especializada adscrita a la Secretaría de Transporte del Gobierno de la Ciudad Autónoma de Buenos Aires, nos encargó desarrollar un análisis detallado de datos.
