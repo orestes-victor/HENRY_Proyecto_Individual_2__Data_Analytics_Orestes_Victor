@@ -12,6 +12,17 @@ Los accidentes de tránsito son incidentes que involucran vehículos y pueden se
 
 Con una población de 3,120,612 habitantes en un área de 200 km2 según el censo de 2022, y más de 12 millones de vehículos circulando por sus autopistas en julio de 2023, la prevención de accidentes y la implementación de políticas de seguridad vial eficaces son cruciales.
 
+## Estructura del análisis
+En este análisis nos enfocamos en 3 grandes grupos de datos, que convinados nos van a dar información relevante para tomar acciones en cuanto a los sinisteros viales en la ciudad.
+
+Consideramos muy importante estas 3 preguntas fundamentales para el proyecto, las cuales son:
+
+*  ¿CUANDO ACTUAR? - Análisis temporal
+*  ¿CON QUIÉN ACTUAR? - Análisis por víctimas
+*  ¿ADONDE ACTUAR? - Análisis geográfico
+
+Estas 3 preguntas como mencionamos son la columna vertebral del proyecto y nos darán una visión mas clara al momento de tomar medidas y acciones.
+
 ## Datos
 El análisis se basó en la Base de [Datos de Víctimas Fatales en Siniestros Viales](https://data.buenosaires.gob.ar/dataset/victimas-siniestros-viales), disponible en formato Excel con dos secciones: HECHOS y VÍCTIMAS, interconectadas por un ID único. Se proporcionan detalles sobre las definiciones y variables utilizadas en este documento, y los datos pueden consultarse aquí.
 
