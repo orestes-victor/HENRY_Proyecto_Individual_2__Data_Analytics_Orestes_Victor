@@ -65,7 +65,10 @@ La imagen adjunta muestra los rendimientos de estos tres KPI propuestos.
 
 ## ESTRUCTURA DEL REPOSITORIO
 Carpetas
-*  **Imagenes:** podrás encontrar imagenes que usa el repositorio.
+
+*  **Datos:** Aqui vas a encontrar el archivo original bajado de la página del gobierno de la ciudad de Buenos Aires [0_homicidios](Datos/0_homicidios.xlsx) y tambien los archivos de [1_homicidios_limpio](Datos/1_homicidios_limpio.csv) (en limpio) y el archivo de [2_Comunas](Datos/2_Comunas.xlsx) de CABA.
+
+*  **Imagenes:** Podrás encontrar imagenes que usa el repositorio.
 
 *  **Notebooks:** Dentro de esta carpeta encontrarás dos archivos .ipynb. Los cuales son [01_ETL](Notebooks/01_ETL.ipynb) y [02_EDA](Notebooks/02_EDA.ipynb). Los cuales contienen todo el análisis hecho sobre el dataset de accidentes de la página de la ciudad de Buenos Aires.
 
