@@ -56,7 +56,7 @@ La imagen adjunta muestra los rendimientos de estos tres KPI propuestos.
 Carpetas
 *  **Imagenes:** podrás encontrar imagenes que usa el repositorio.
 
-*  **Notebooks:** Dentro de esta carpeta encontrarás dos archivos .ipynb. Los cuales son ![01_ETL](Notebooks/01_ETL.ipynb) y ![02_EDA](Notebooks/02_EDA.ipynb). Los cuales contienen todo el análisis hecho sobre el dataset de accidentes de la página de la ciudad de Buenos Aires.
+*  **Notebooks:** Dentro de esta carpeta encontrarás dos archivos .ipynb. Los cuales son [01_ETL](Notebooks/01_ETL.ipynb) y [02_EDA](Notebooks/02_EDA.ipynb). Los cuales contienen todo el análisis hecho sobre el dataset de accidentes de la página de la ciudad de Buenos Aires.
 
 *  **Presentación:** Aqui podrás encontrar la presentación del análisis en un archivo de PowerBI.
 
