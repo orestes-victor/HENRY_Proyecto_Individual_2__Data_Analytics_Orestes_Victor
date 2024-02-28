@@ -50,4 +50,15 @@ Este KPI se basa en los homicidios en las avenidas, que mide el número de víct
 
 La imagen adjunta muestra los rendimientos de estos tres KPI propuestos.
 
+## CONCLUSIONES
+El análisis de los siniestros viales en la Ciudad de Buenos Aires entre 2016 y 2021 revela patrones críticos que deben ser abordados con urgencia. 
 
+Con 694 accidentes y 759 víctimas mortales en este período, es evidente la necesidad de acciones concretas para mejorar la seguridad vial. La tendencia al alza de accidentes en diciembre y la disminución observada durante los años de pandemia resaltan el impacto de factores temporales en la incidencia de estos siniestros. 
+
+Además, el perfil predominante de las víctimas, siendo en su mayoría hombres de entre 30 y 45 años, y el rol significativo de motocicletas y automóviles en estos eventos, subrayan áreas específicas para intervenciones dirigidas.
+
+En este contexto, se recomienda la implementación de campañas de concienciación enfocadas en los conductores de motocicletas y automóviles, especialmente dirigidas a los grupos de edad más afectados. Estas campañas deben enfatizar la importancia del respeto a las normas de tráfico, el uso de cascos y cinturones de seguridad, y la conducción responsable. Además, es crucial mejorar la infraestructura vial en puntos críticos identificados, como esquinas y avenidas donde ocurre el mayor número de accidentes, así como en los barrios con mayores índices de siniestralidad.
+
+Finalmente, se sugiere fortalecer la recopilación y análisis de datos sobre siniestros viales, facilitando así la identificación de tendencias, la evaluación de políticas implementadas y la adaptación de estrategias a las necesidades cambiantes. 
+
+La colaboración entre distintas entidades gubernamentales, organizaciones de la sociedad civil y el sector privado será fundamental para lograr una reducción significativa en el número de víctimas fatales por siniestros viales en Buenos Aires y en toda Argentina.
