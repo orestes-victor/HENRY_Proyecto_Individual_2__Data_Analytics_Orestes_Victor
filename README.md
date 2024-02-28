@@ -13,7 +13,7 @@ Los accidentes de tránsito son incidentes que involucran vehículos y pueden se
 Con una población de 3,120,612 habitantes en un área de 200 km2 según el censo de 2022, y más de 12 millones de vehículos circulando por sus autopistas en julio de 2023, la prevención de accidentes y la implementación de políticas de seguridad vial eficaces son cruciales.
 
 ## Estructura del análisis
-En este análisis nos enfocamos en 3 grandes grupos de datos, que convinados nos van a dar información relevante para tomar acciones en cuanto a los sinisteros viales en la ciudad.
+En este análisis nos enfocamos en 3 grandes grupos de datos, que combinados nos van a dar información relevante para tomar acciones en cuanto a los sinisteros viales en la ciudad.
 
 Consideramos muy importante estas 3 preguntas fundamentales para el proyecto, las cuales son:
 
