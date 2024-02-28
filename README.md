@@ -37,4 +37,17 @@ En términos de distribución espacial, los accidentes en las avenidas son comun
 Este análisis integral proporciona una visión detallada de los patrones temporales, el perfil de las víctimas y los factores espaciales relacionados con los homicidios, lo que puede ser fundamental para identificar áreas de enfoque en términos de prevención y políticas públicas orientadas a la seguridad ciudadana.
 
 ## KPI
-Basados en el análisis, se establecieron tres KPIs para monitorear la reducción de víctimas fatales, accidentes mortales de motociclistas, y la tasa de homicidios en avenidas
+En función del análisis previo, se establecieron tres objetivos para reducir la cantidad de víctimas fatales en siniestros viales, cada uno asociado a un indicador clave de rendimiento (KPI).
+
+Reducir en un 10% la tasa de homicidios en siniestros viales de los últimos seis meses en CABA, en comparación con el semestre anterior:
+Este KPI se basa en la Tasa de homicidios en siniestros viales, que mide el número de víctimas fatales en accidentes de tránsito por cada 100,000 habitantes durante un período específico. Se calcula dividiendo el número de homicidios en siniestros viales por la población total y multiplicando por 100,000. Para el año 2021. El objetivo era reducir la tasa en un 10% para el segundo semestre de 2021, lo que equivale a 1.61. Sin embargo, el KPI resultante fue de 1.66, indicando que se no se cumplió con el objetivo propuesto.
+
+Reducir en un 7% la cantidad de accidentes mortales de motociclistas en el último año en CABA, respecto al año anterior:
+Este indicador se basa en la Cantidad de accidentes mortales de motociclistas, que mide el cambio porcentual en el número de accidentes mortales en los que estuvieron involucrados motociclistas entre dos años consecutivos. El objetivo era no soprepasar -44.2 para 2021, lo que representa una reducción del 7%. Sin embargo, el valor obtenido para 2021 fue de 53,3, indicando un aumento del 53% en comparación con 2020, lo que no cumple con el objetivo establecido.
+
+Reducir en un 10% los homicidios en las avenidas en el último año en CABA, respecto al año anterior:
+Este KPI se basa en los homicidios en las avenidas, que mide el número de víctimas fatales en accidentes de tránsito durante un año. Para el año 2020, fue de 69 victimas, y el objetivo era reducirla a 62 para 2021, lo que representa una disminución del 10%. Sin embargo, el número de víctimas para 2021 fue de 66 victimas, indicando una disminución de homicidios en las avenidas en comparación con el año anterior, pero aún asi insuficiente e incumpliendo así el objetivo establecido.
+
+La imagen adjunta muestra los rendimientos de estos tres KPI propuestos.
+
+
