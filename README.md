@@ -52,6 +52,16 @@ La imagen adjunta muestra los rendimientos de estos tres KPI propuestos.
 
 ![KPI](Imagenes/KPIs.png)
 
+## ESTRUCTURA DEL REPOSITORIO
+Carpetas
+*  **Imagenes:** podrás encontrar imagenes que usa el repositorio.
+
+*  **Notebooks:** Dentro de esta carpeta encontrarás dos archivos .ipynb. Los cuales son ![01_ETL](Notebooks/01_ETL.ipynb) y ![02_EDA](Notebooks/02_EDA.ipynb). Los cuales contienen todo el análisis hecho sobre el dataset de accidentes de la página de la ciudad de Buenos Aires.
+
+*  **Presentación:** Aqui podrás encontrar la presentación del análisis en un archivo de PowerBI.
+
+*  **Readme:** Incluye un reporte de análisis en base al dashboard y análisis de los KPI sugeridos.
+
 ## CONCLUSIONES
 El análisis de los siniestros viales en la Ciudad de Buenos Aires entre 2016 y 2021 revela patrones críticos que deben ser abordados con urgencia. 
 
