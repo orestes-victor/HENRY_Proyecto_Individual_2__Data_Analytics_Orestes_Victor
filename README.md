@@ -1,4 +1,4 @@
-# Análisis de Homicidios Viales en la Ciudad Autónma de Buenos Aires (CABA), Argentina.
+# Análisis de Homicidios Viales en la Ciudad Autónoma de Buenos Aires (CABA), Argentina.
 
 ## Introducción
 Este proyecto emula el papel de un Analista de Datos dentro de un equipo de una consultora. El Observatorio de Movilidad y Seguridad Vial (OMSV), una entidad especializada adscrita a la Secretaría de Transporte del Gobierno de la Ciudad Autónoma de Buenos Aires, nos encargó desarrollar un análisis detallado de datos.
@@ -11,6 +11,17 @@ Los entregables del proyecto incluyen un informe detallado sobre las actividades
 Los accidentes de tránsito son incidentes que involucran vehículos y pueden ser causados por múltiples factores, resultando en daños materiales y/o físicos a los implicados. En la densamente poblada Ciudad Autónoma de Buenos Aires, con un tráfico considerable, estos eventos son una preocupación constante por su impacto en la seguridad pública, la infraestructura vial, y los servicios de emergencia.
 
 Con una población de 3,120,612 habitantes en un área de 200 km2 según el censo de 2022, y más de 12 millones de vehículos circulando por sus autopistas en julio de 2023, la prevención de accidentes y la implementación de políticas de seguridad vial eficaces son cruciales.
+
+## Estructura del análisis
+En este análisis nos enfocamos en 3 grandes grupos de datos, que combinados nos van a dar información relevante para tomar acciones en cuanto a los sinisteros viales en la ciudad.
+
+Consideramos muy importante estas 3 preguntas fundamentales para el proyecto, las cuales son:
+
+*  ¿CUANDO ACTUAR? - Análisis temporal
+*  ¿CON QUIÉN ACTUAR? - Análisis por víctimas
+*  ¿ADONDE ACTUAR? - Análisis geográfico
+
+Estas 3 preguntas como mencionamos son la columna vertebral del proyecto y nos darán una visión mas clara al momento de tomar medidas y acciones.
 
 ## Datos
 El análisis se basó en la Base de [Datos de Víctimas Fatales en Siniestros Viales](https://data.buenosaires.gob.ar/dataset/victimas-siniestros-viales), disponible en formato Excel con dos secciones: HECHOS y VÍCTIMAS, interconectadas por un ID único. Se proporcionan detalles sobre las definiciones y variables utilizadas en este documento, y los datos pueden consultarse aquí.
@@ -51,6 +62,16 @@ Este KPI se basa en los homicidios en las avenidas, que mide el número de víct
 La imagen adjunta muestra los rendimientos de estos tres KPI propuestos.
 
 ![KPI](Imagenes/KPIs.png)
+
+## ESTRUCTURA DEL REPOSITORIO
+Carpetas
+*  **Imagenes:** podrás encontrar imagenes que usa el repositorio.
+
+*  **Notebooks:** Dentro de esta carpeta encontrarás dos archivos .ipynb. Los cuales son [01_ETL](Notebooks/01_ETL.ipynb) y [02_EDA](Notebooks/02_EDA.ipynb). Los cuales contienen todo el análisis hecho sobre el dataset de accidentes de la página de la ciudad de Buenos Aires.
+
+*  **Presentación:** Aqui podrás encontrar la presentación del análisis en un archivo de PowerBI llamada [Presentación](Presentación/Presentación_accidentes_CABA_MySQL.pbix)
+
+*  **Readme:** Incluye un reporte de análisis en base al dashboard y análisis de los KPI sugeridos.
 
 ## CONCLUSIONES
 El análisis de los siniestros viales en la Ciudad de Buenos Aires entre 2016 y 2021 revela patrones críticos que deben ser abordados con urgencia. 
